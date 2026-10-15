@@ -29,7 +29,7 @@
 
 ### 3. 先下載工具包，`data` 資料夾就有了
 
-開一個新的、空的資料夾當你的工作資料夾，在裡面打開 opencode，請它把 `https://github.com/guanyuhoujeff/2026-NKUST-FMgnt.git` 下載到這一層（要貼的那段話在 `學生指令與核對表.md` 最前面）。下載完裡面就有一個 `data` 資料夾，等一下 4 個檔都存在那裡。
+開一個新的、空的資料夾當你的工作資料夾，在裡面打開 opencode，請它把 `https://github.com/guanyuhoujeff/2026-NKUST-FMgnt-day1.git` 下載到這一層（要貼的那段話在 `學生指令與核對表.md` 最前面）。下載完裡面就有一個 `data` 資料夾，等一下 4 個檔都存在那裡。
 
 ---
 

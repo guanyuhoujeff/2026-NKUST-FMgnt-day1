@@ -1,4 +1,4 @@
-# 金融市場與機構管理｜Day A：信用比較差的公司，借款利率真的比較高嗎？
+# 金融市場與機構管理｜Day 1：信用比較差的公司，借款利率真的比較高嗎？
 
 這個資料夾就是你上課用的**工作資料夾**。下載下來之後，在這個資料夾裡打開 opencode，照 `教材/學生指令與核對表.md` 一步一步做。
 
@@ -19,7 +19,7 @@
 2. 在這個資料夾裡打開 opencode，貼這段：
 
    ```
-   請用 git 把 https://github.com/guanyuhoujeff/2026-NKUST-FMgnt.git 下載到目前這個資料夾，檔案直接放在這一層，不要多一層子資料夾；資料夾裡原本的檔案不可以刪除或覆蓋。下載完列出這一層的檔案和 .opencode/skills 裡的資料夾。
+   請用 git 把 https://github.com/guanyuhoujeff/2026-NKUST-FMgnt-day1.git 下載到目前這個資料夾，檔案直接放在這一層，不要多一層子資料夾；資料夾裡原本的檔案不可以刪除或覆蓋。下載完列出這一層的檔案和 .opencode/skills 裡的資料夾。
    ```
 
 3. **把 opencode 整個關掉再重開**（skill 只在 opencode 啟動時讀一次）。
